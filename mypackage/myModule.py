@@ -1,4 +1,4 @@
-def top_n(items, n):
+def top_n(items, n, m=0):
     """Return the top n items in an array, in descending order.
 
     Args:
